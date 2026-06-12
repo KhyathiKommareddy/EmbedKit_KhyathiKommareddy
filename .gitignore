@@ -1,0 +1,11 @@
+# Executables
+ringbuf
+
+# Object files
+*.o
+
+# VS Code
+.vscode/
+
+# Linux temporary files
+*~
